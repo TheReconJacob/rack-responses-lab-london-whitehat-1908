@@ -8,5 +8,5 @@ class Application
     if morning
       resp.write "Good Morning!"
     else
-      resp.write ""
+      resp.write "Good Afternoon!"
     
