@@ -6,7 +6,7 @@ class Application
     afternoon = Time > 12
     
     if morning
-      resp.write "You Win"
+      resp.write "Good Morning!"
     else
       resp.write ""
     
